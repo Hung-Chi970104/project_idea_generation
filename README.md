@@ -1,1 +1,1 @@
-# project_idea_generation
+# Project Idea Generation
